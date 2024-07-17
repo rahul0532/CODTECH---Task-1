@@ -86,3 +86,4 @@ A commonly used dataset for this purpose is the **Boston Housing Dataset** or da
 ![Screenshot 2024-07-18 003442](https://github.com/user-attachments/assets/d326aa2a-3777-4fbb-9f0f-3a1798be9c05)
 ![Screenshot 2024-07-18 003457](https://github.com/user-attachments/assets/8640209f-313c-4c67-81d1-c72c631d97cc)
 ![Screenshot 2024-07-18 003536](https://github.com/user-attachments/assets/ca8b5382-1f67-48d9-a14a-e312f717e6dc)
+![Screenshot 2024-07-18 005235](https://github.com/user-attachments/assets/9af0ad24-c20c-4a97-b736-bb26844804ea)
