@@ -1,10 +1,15 @@
-# CODTECH---Task-1
-**Name**: RAHUL RAJ MEKALA
-**Company**: CODTECH IT SOLUTIONS
-**ID**: CT4ML2534
-**Domain**: MACHINE LEARNING
-**Duration**: 20th June 2024 to 20 July 2024
-**Mentor**:NEELA SANTHOSH KUMAR
+**Name** : RAHUL RAJ MEKALA
+
+**Company** : CODTECH IT SOLUTIONS
+
+**ID** : CT4ML2534
+
+**Domain** : MACHINE LEARNING
+
+**Duration** : 20th June 2024 to 20 July 2024
+
+**Mentor** : NEELA SANTHOSH KUMAR
+
 
 ### **Project Overview: Linear Regression on Housing Prices**
 
@@ -65,8 +70,8 @@ A commonly used dataset for this purpose is the **Boston Housing Dataset** or da
    - Include visualizations, interpretations, and recommendations based on the model’s results.
 
 #### Tools and Technologies
-- **Programming Languages:** Python, R
-- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Statsmodels
+- **Programming Languages:** Python
+- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 - **Platforms:** Jupyter Notebook, Google Colab, any IDE for coding
   
 #### Expected Outcomes
